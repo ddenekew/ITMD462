@@ -1,0 +1,33 @@
+/* Here stayling the body and giving it bkgr color, width and mrgn */
+body {
+  background: #FFFFFF;
+  width: 800px;
+  margin: auto;
+}
+
+/* Here styling the h1 giving it cool color and alligning the text for easy read*/
+h1 {
+  color: blue;
+  font-family: arial, helvetica, "sans serif";
+  font-size: 150%;
+}
+/*Styling the list section*/
+<style>
+  ul {
+    font-size: 1.5em;
+    list-style-type: circle;
+  }
+</style>
+
+/* The paragrpah is in black color inside a boarder for more clarity reading*/
+p {
+  color: black;
+  border: 2px solid gray;
+  padding: 10px;
+}
+/* The footer is also in the box and has a different color than the rest of the text on the page*/
+footer{
+  color: maroon;
+  text-align: justify;
+  border: 2px solid gray;
+}
